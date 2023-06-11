@@ -1,0 +1,18 @@
+.weatherContainer {
+    width: 500px;
+    height: 500px;
+    margin: 150px auto;
+    justify-content: center;
+}
+.titleTop {
+    font-size: 24px;
+    font-weight: bold;
+    align-items: center;
+    justify-content: center;
+    color: beige;
+}
+
+.titleContainer {
+    align-items: center;
+    justify-content: center;
+}
